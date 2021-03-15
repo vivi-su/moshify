@@ -1,3 +1,5 @@
+
+/*Typography*/
 /* 62.5%*16px=10px*/
 html{
     font-size:62.5%;
@@ -35,6 +37,10 @@ p{
     margin-top:0;
 }
 
+a{
+    text-decoration:none;
+}
+
 @media screen and (min-width:1024px){
     body{
         font-size:1.8rem;
@@ -49,3 +55,27 @@ p{
         font-size:2.4rem;
     }
 }
+
+/*Links*/
+.link-arrow{
+    color:var(--color-accent);
+    text-transform:uppercase;
+    font-size:2rem;
+    font-weight:bold;
+}
+.link-arrow::after{
+    content:'-->';
+    margin-left:5px;
+    transition:margin 0.15s;
+}
+
+.link-arrow:hover::after{
+    margin-left:10px;
+}
+
+@media screen and (min-width:1024px){
+    .link-arrow{
+        font-size:1.5rem;
+    }
+}
+
