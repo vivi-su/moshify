@@ -1,5 +1,5 @@
 
-/*Typography*/
+/* Typography */
 /* 62.5%*16px=10px*/
 html{
     font-size:62.5%;
@@ -56,7 +56,7 @@ a{
     }
 }
 
-/*Links*/
+/* Links */
 .link-arrow{
     color:var(--color-accent);
     text-transform:uppercase;
@@ -79,7 +79,7 @@ a{
     }
 }
 
-/*Badges*/
+/* Badges */
 
 .badge{
     border-radius:20px;
@@ -110,4 +110,32 @@ a{
  .badge--small{
      font-size:1.2rem;
  }
+}
+
+/* List */
+.list{
+    list-style:none;
+    padding-left:0; /* get rid of padding that all browers apply by default*/
+    color:var(--color-headings);
+}
+
+.list--inline .list__item{
+    display: inline-block;/* not use inline because inline can not apply margin */ 
+    margin-right: 2rem;
+}
+
+.list--tick{
+    list-style-image:url(../images/tick.svg);
+    padding-left: 3rem;
+}
+
+.list--tick .list__item{
+    padding-left:0.5rem;
+    margin-bottom:1rem;
+}
+
+@media screen and (min-width:1024px){
+    .list--tick .list__item{
+        padding-left:0;
+    }
 }
