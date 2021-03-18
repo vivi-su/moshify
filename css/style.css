@@ -193,6 +193,11 @@ display: inline-block; /* because anchor element is inline, the width will not w
     border:2px solid var(--color-headings); 
 }
 
+.btn--outline:hover{
+    background:var(--color-headings);
+    color:white; 
+}
+
 .btn--accent{
     background:var(--color-accent);
     color:white;
