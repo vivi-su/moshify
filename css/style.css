@@ -188,19 +188,19 @@ display: inline-block; /* because anchor element is inline, the width will not w
 }
 
 .btn--outline{
-    background: white;
+    background: #fff;
     color:var(--color-headings);
     border:2px solid var(--color-headings); 
 }
 
 .btn--outline:hover{
     background:var(--color-headings);
-    color:white; 
+    color:#fff; 
 }
 
 .btn--accent{
     background:var(--color-accent);
-    color:white;
+    color:#fff;
 }
 
 .btn--accent:hover{
@@ -209,7 +209,7 @@ display: inline-block; /* because anchor element is inline, the width will not w
 
 .btn--secondary{
     background: var(--color-secondary);
-    color:white;
+    color:#fff;
 }
 
 .btn--secondary:hover{
@@ -218,7 +218,7 @@ background: #00c8eb;
 
 .btn--headings{
     background: var(--color-headings);
-    color:white;
+    color:#fff;
 }
 
 .btn--headings:hover{
@@ -230,3 +230,24 @@ background: #00c8eb;
        font-size: 1.5rem;
    }
    }
+
+   /* Inputs */
+
+.input{
+    padding:1.5rem 3.5rem;
+    border:1px solid #ccc;
+    border-radius:30px;
+    outline:0;
+    color:var(--color-headings);
+    font-size: 2rem;
+}
+
+::placeholder{
+    color:#cdcbd7;
+}
+
+@media screen and (min-width:1024px){
+    .input{
+    font-size: 1.5rem;
+    }
+}
