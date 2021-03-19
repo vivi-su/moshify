@@ -9,7 +9,7 @@ html {
   --color-accent: #ff3400;
   --color-headings: #1b0760;
   --color-body: #918ca4;
-  --color-border: #ccc;
+  --color-border:black;
   --border-radius:30px;
 }
 
@@ -246,7 +246,7 @@ a {
 }
 
 ::placeholder {
-  color: #cdcbd7;
+  color: black; /* #cdcbd7 */
 }
 
 .input-group {
@@ -269,4 +269,22 @@ a {
   .input {
     font-size: 1.5rem;
   }
+}
+
+/* cards */
+
+.card{
+    box-shadow: 0 0 20px 10px #f3f3f3;
+    border-radius: 7px; 
+    overflow:hidden;  
+}
+
+.card--primary .card__header{
+    background: var(--color-primary);
+    color:#fff;
+}
+
+.card__header,
+ .card__body{
+    padding:2rem 3rem;
 }
