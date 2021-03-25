@@ -632,6 +632,7 @@ opacity: 1;
 
 .block__header{
   text-align: center;
+  margin-bottom: 4rem;
 }
 
 .block__heading{
@@ -724,7 +725,6 @@ opacity: 1;
 }
 
 /* hero */
-
 
 .hero__tagline{
   font-size:2rem;
