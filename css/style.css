@@ -1,3 +1,5 @@
+@import './normalize.css';
+
 /* Typography */
 /* 62.5%*16px=10px*/
 ::selection{
@@ -934,4 +936,10 @@ max-width:230px;
   .footer__heading{
     font-size:1.5rem;
   }
+}
+
+/* Sign-up Callout */
+
+.callout-signup {
+  transform: translateY(5rem);
 }

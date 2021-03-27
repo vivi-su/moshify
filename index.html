@@ -24,7 +24,7 @@
   <header class="block--dark">
     <div class="container">
       <nav class="nav collapsible">
-        <a class="nav__brand" href="/"><img src="images/logo.svg" alt=""></a>
+        <a aria-label="Moshify" class="nav__brand" href="/"><img src="images/logo.svg" alt=""></a>
         <svg class="icon icon--white nav__toggler">
           <use href="images/sprite.svg#menu"></use>
         </svg>
@@ -60,7 +60,11 @@
       </p>
 
       <div class="input-group">
-        <input type="text" class="input" placeholder="Enter domain name here">
+        <input 
+        aria-label="Domain"
+        type="text" 
+        class="input" 
+        placeholder="Enter domain name here">
         <button class="btn btn--accent">
           <svg class="icon icon--white">
             <use href="images/sprite.svg#search"></use>
@@ -327,6 +331,24 @@
   
   </section>
 
+  <div class="container">
+    <div class="callout callout--primary callout-signup">
+      <div class="grid grid--1x2">
+          <div class="callout__content">
+              <h2 class="callout__heading">Ready to Get Started?</h2>
+              <p class="callout__text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nam laboriosam adipisci consequatur voluptates
+                  laborum blanditiis!
+              </p>
+          </div>
+    
+            <a href="#" class="btn btn--secondary btn--streched">Get Started</a>
+    
+      </div>
+    </div>
+  </div>
+
+
+
   <footer class="block block--dark footer">
     <div class="grid container footer__sections">
       <section class="collapsible collapsible--expanded footer__section">
@@ -387,8 +409,6 @@
 
     </div>
   </footer>
-
-
 
   <script src="js/main.js"></script>
   <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
