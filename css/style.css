@@ -861,6 +861,7 @@ opacity: 1;
   }
 
 /* footer */
+
 .footer{
   background:#232323;
 }
@@ -879,7 +880,7 @@ transition: color 0.3s;
 }
 
 .footer__section{
-  padding:2rem;
+  padding:8rem;
   border-bottom:1px solid #393939;
 }
 
@@ -889,12 +890,12 @@ transition: color 0.3s;
 }
 
 .footer__brand{
-  margin-top:5rem;
   text-align:center;
 }
 
 .footer__brand img{
   /* TODO:consider refactoring this and applying it to all images */
+margin-top:6rem;
 width:100%;
 max-width:230px;
 }
