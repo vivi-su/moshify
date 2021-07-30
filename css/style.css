@@ -945,3 +945,31 @@ max-width:230px;
 .callout-signup {
   transform: translateY(5rem);
 }
+
+/*form*/
+.fcf-body {
+  font-family: -apple-system, Arial, sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  color: #0000ff;
+  text-align: left;
+}
+
+input[type=text],input[type=email], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit], button {
+  background-color: #5DADE2;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+}
