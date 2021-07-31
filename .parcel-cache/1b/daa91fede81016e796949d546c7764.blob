@@ -1,0 +1,802 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Deploy your websites in less than 60 seconds.">
+  <meta property="og:title" content="Moshify...">
+  <meta property="og:description" content="Moshify...">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="http://">
+  <meta property="og:url" content="https://moshified.com">
+  <title>Moshify- Go Online for Just $9</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/index.HASH_REF_8d1917cbb3eb8707a04b00d780d27271.css">
+  <link rel="stylesheet" href="/index.HASH_REF_809c14547def49b51095b789cb104480.css">
+  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css">
+</head>
+
+<body>
+
+  <header class="block--dark">
+    <div class="container">
+      <nav class="nav collapsible">
+        <a class="nav__brand" href="/"><img src="/logo.HASH_REF_92ef0a6b94569b6a419386db7071b2c9.svg" alt=""></a>
+        <div class="icon icon--white nav__toggler">
+          <img src="/menu.HASH_REF_7ee913e49fe6982fee43484a689d0e45.svg" alt="">
+        </div>
+        <ul class="list nav__list collapsible__content">
+          <li class="nav__item"><a href="#">Hosting</a></li>
+          <li class="nav__item"><a href="#">VPS</a></li>
+          <li class="nav__item"><a href="#">Domain</a></li>
+          <li class="nav__item"><a href="#">Pricing</a></li>
+        </ul>
+        </nav>
+    </div>
+  </header>
+
+  <section class="block block--dark block--skewed-left hero">
+    <div class="container grid grid--1x2">
+  <header class="block__header hero__content" data-aos="fade-up">
+    <h1 class="block__heading" data-aos="fade-up">Cloud Hosting for Pros</h1>
+    <p class="hero__tagline">Deploy your websites in less than 60 seconds</p>
+    <a href="" class="btn btn--accent btn--streched">Get Started</a>
+  </header>
+  <picture data-aos="zoom-in">
+    <source type="image/webp" srcset="/banner.HASH_REF_52fb7d03c826a52ce89d609496f0a569.webp 1x,/banner@2x.HASH_REF_d218b4924e8fe6e7b2ee3abd8068ff16.webp 2x">
+    <source type="image/png" srcset="/banner.HASH_REF_263a365b9001101846e133cacf7d560f.png 1x,/banner@2x.HASH_REF_c47d919fd61998561e05587dca5ceddf.png 2x">
+    <img class="hero__image" src="/banner.HASH_REF_263a365b9001101846e133cacf7d560f.png" alt="">
+  </picture>
+    </div>
+  </section>
+
+  <section class="block container block-domain" data-aos="zoom-in">
+    <div class="block__header">
+      <h2 class="block__heading">The best webhosting Starting $10 per month</h2>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quos magnam doloremque vel, doloribus expedita.
+      </p>
+
+      <div class="input-group">
+        <input type="text" class="input" placeholder="Enter domain name here">
+        <button class="btn btn--accent">
+          <svg class="icon icon--white">
+            <use href="/sprite.HASH_REF_491768a2e291e557a2f144fc00b8f7d6.svg"></use>
+          </svg>
+          search</button>
+      </div>
+
+      <ul class="list block-domain__prices">
+        <li><span class="badge badge--secondary">.com $9.26</span></li>
+        <li>.sg $7.91</li>
+        <li>.space $12.98</li>
+        <li>.info $14.15</li>
+        <li>.net $16.15</li>
+        <li>.xyz $10.15</li>
+    
+      </ul>
+
+    </div>
+  </section>
+
+  <section class="block container block-plans" data-aos="fade-up">
+    <div class="grid grid--1x3">
+     <div class="plan">
+       <div class="card card--secondary">
+           <header class="card__header ">
+              
+               <h3 class="plan__name">Entry</h3>
+               <span class="plan__price">$14</span>
+               <span class="plan__billing-cycle">/month</span>
+               <span class="badge badge--secondary badge--small">10% OFF</span>
+               <span class="plan__discription">East start on the cloud</span>
+           </header>
+           <div class="card__body">
+               <ul class="list list--tick">
+               <li class="list__item">Unlimited Websites</li>
+               <li class="list__item">Unlimited Bandwidth</li>
+               <li class="list__item">100 GB SSD Storge</li>
+               <li class="list__item">3 GB RAM</li>
+           </ul>
+           <button class="btn btn--outline btn--block">buy now</button>
+       </div>
+       </div>
+   </div>
+ 
+   <div class="plan plan--popular">
+     <div class="card card--primary">
+         <header class="card__header ">
+            
+             <h3 class="plan__name">Entry</h3>
+             <span class="plan__price">$14</span>
+             <span class="plan__billing-cycle">/month</span>
+             <span class="badge badge--primary badge--small">10% OFF</span>
+             <span class="plan__discription">East start on the cloud</span>
+         </header>
+         <div class="card__body">
+             <ul class="list list--tick">
+             <li class="list__item">Unlimited Websites</li>
+             <li class="list__item">Unlimited Bandwidth</li>
+             <li class="list__item">100 GB SSD Storge</li>
+             <li class="list__item">3 GB RAM</li>
+         </ul>
+         <button class="btn btn--outline btn--block">buy now</button>
+     </div>
+     </div>
+ </div>
+ 
+ <div class="plan">
+   <div class="card card--secondary">
+       <header class="card__header ">
+          
+           <h3 class="plan__name">Entry</h3>
+           <span class="plan__price">$14</span>
+           <span class="plan__billing-cycle">/month</span>
+           <span class="badge badge--secondary badge--small">10% OFF</span>
+           <span class="plan__discription">East start on the cloud</span>
+       </header>
+       <div class="card__body">
+           <ul class="list list--tick">
+           <li class="list__item">Unlimited Websites</li>
+           <li class="list__item">Unlimited Bandwidth</li>
+           <li class="list__item">100 GB SSD Storge</li>
+           <li class="list__item">3 GB RAM</li>
+       </ul>
+       <button class="btn btn--outline btn--block">buy now</button>
+   </div>
+   </div>
+ </div>
+ 
+    </div>
+  </section>
+
+  <section class="block container">
+    <header class="block__header">
+      <h2>Host On the Cloud to Keep Growing</h2>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, saepe?</p>
+    </header>
+    <article class="grid grid--1x2 feature">
+    <div class="feature__content" data-aos="fade-right">
+     <span class="icon-container">
+       <svg class="icon icon--primary">
+           <use href="/sprite.HASH_REF_491768a2e291e557a2f144fc00b8f7d6.svg"></use>
+         </svg>
+   </span>
+   <h3 class="feature__heading">Super easy to use</h3>
+   <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ea, rem?</p>
+   <a href="" class="link-arrow">Learn More</a>
+    </div>
+    <picture data-aos="fade-left">
+     <source type="image/webp" srcset="/easy.HASH_REF_8cca47c16575d26be4a2fa9ab9cc2e51.webp 1x,/easy@2x.HASH_REF_b4289f14fcd720323c966240472adf40.webp 2x">
+     <source type="image/jpg" srcset="/easy.HASH_REF_289cb81557c270e19184c19001183fe6.jpg 1x,/easy@2x.HASH_REF_76663e66a5e73371f510ba0cfa1ff81c.jpg 2x">
+      <img class="feature__image" src="/easy@2x.HASH_REF_76663e66a5e73371f510ba0cfa1ff81c.jpg" alt="super easy to use">
+   
+     </picture>
+   
+   </article>
+
+   <article class="grid grid--1x2 feature">
+    <div class="feature__content" data-aos="fade-left">
+     <span class="icon-container">
+       <svg class="icon icon--primary">
+           <use href="/sprite.HASH_REF_491768a2e291e557a2f144fc00b8f7d6.svg"></use>
+         </svg>
+   </span>
+   <h3 class="feature__heading">Simply Fast Websites</h3>
+   <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ea, rem?</p>
+   <a href="" class="link-arrow">Learn More</a>
+    </div>
+    <picture data-aos="fade-right">
+     <source type="image/webp" srcset="/fast.HASH_REF_29c7aa56ac84c240e9f0fb26e1e2569a.webp 1x,/fast@2x.HASH_REF_06c8be6dc1acdb29187dbb8778c2ae7d.webp 2x">
+     <source type="image/jpg" srcset="/fast.HASH_REF_eb4816552cbb51ec6e48ab7bce84a277.jpg 1x,/fast@2x.HASH_REF_8a5f73062b2833b4690a720b8bbc8bec.jpg 2x">
+      <img class="feature__image" src="/fast@2x.HASH_REF_8a5f73062b2833b4690a720b8bbc8bec.jpg" alt="Simply Fast Websites">
+   
+     </picture>
+   
+   </article>
+
+   <article class="grid grid--1x2 feature">
+    <div class="feature__content" data-aos="fade-right">
+     <span class="icon-container">
+       <svg class="icon icon--primary">
+           <use href="/sprite.HASH_REF_491768a2e291e557a2f144fc00b8f7d6.svg"></use>
+         </svg>
+   </span>
+   <h3 class="feature__heading">WordPress Made it Easy</h3>
+   <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ea, rem?</p>
+   <a href="" class="link-arrow">Learn More</a>
+    </div>
+    <picture data-aos="fade-left">
+     <source type="image/webp" srcset="/wordpress.HASH_REF_141afa6703fae189099942ea8346087f.webp 1x,/wordpress@2x.HASH_REF_cd5c1e6f8d6dcd3bd5eb7aa9919583e1.webp 2x">
+     <source type="image/jpg" srcset="/wordpress.HASH_REF_4bff17b4098335f3f9c1ca92c5943cb2.jpg 1x,/wordpress@2x.HASH_REF_c51afec448148784a78a1429cbaa902f.jpg 2x">
+      <img class="feature__image" src="/wordpress@2x.HASH_REF_c51afec448148784a78a1429cbaa902f.jpg" alt="WordPress Made it Easy">
+   
+     </picture>
+   
+   </article>
+
+   <article class="grid grid--1x2 feature">
+    <div class="feature__content" data-aos="fade-left">
+     <span class="icon-container">
+       <svg class="icon icon--primary">
+           <use href="/sprite.HASH_REF_491768a2e291e557a2f144fc00b8f7d6.svg"></use>
+         </svg>
+   </span>
+   <h3 class="feature__heading">24/7 Expert Support</h3>
+   <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ea, rem?</p>
+   <a href="" class="link-arrow">Learn More</a>
+    </div>
+    <picture data-aos="fade-right">
+     <source type="image/webp" srcset="/support.HASH_REF_dd1cc42eaff26b5b56c359ea5928729b.webp 1x,/support@2x.HASH_REF_c86e003b1ec3f396b6e0aa82a30e2cc2.webp 2x">
+     <source type="image/jpg" srcset="/support.HASH_REF_2bb096412a93b826ee63fa417c54f551.jpg 1x,/support@2x.HASH_REF_1e0314cd807d3db3d27d3a53a0c8b1af.jpg 2x">
+      <img class="feature__image" src="/support@2x.HASH_REF_1e0314cd807d3db3d27d3a53a0c8b1af.jpg" alt="24-7 Expert Support">
+   
+     </picture>
+   
+   </article>
+
+  </section>
+
+  <section class="block block--dark block--skewed-right block-showcase">
+    <header class="block__header">
+      <h2>User-friendly Control Panel</h2>
+    </header>
+    <div class="container grid grid--1x2">
+      <picture class="block-showcase__image" data-aos="fade-right">
+        <source type="image/webp" srcset="/ipad.HASH_REF_532ea4d53a9d5f266cad08fb79f59091.webp 1x,/ipad@2x.HASH_REF_0f9606cb3defca7268e2274ad08d3b43.webp 2x">  
+        <source type="image/png" srcset="/ipad.HASH_REF_4dd5950a136db140c5fba45bfb812e96.png 1x,/ipad@2x.HASH_REF_706632f1034a37fc5d2911ca1cf8a57a.png 2x">  
+        <img src="/ipad@2x.HASH_REF_706632f1034a37fc5d2911ca1cf8a57a.png" alt="">
+      </picture>
+     <ul class="list" data-aos="fade-up">
+       <li><div class="media">
+        <div class="media__image">
+            <svg class="icon icon--primary">
+                <use href="/sprite.HASH_REF_491768a2e291e557a2f144fc00b8f7d6.svg"></use>
+              </svg>
+        </div>
+        <div class="media__body">
+            <h3 class="media__title">Easy Start & Managed Updates</h3>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Assumenda ut odit perspiciatis ipsam incidunt earum amet reprehenderit suscipit consequuntur labore.</p>
+        </div>
+    </div></li>
+       <li><div class="media">
+        <div class="media__image">
+            <svg class="icon icon--primary">
+                <use href="/sprite.HASH_REF_491768a2e291e557a2f144fc00b8f7d6.svg"></use>
+              </svg>
+        </div>
+        <div class="media__body">
+            <h3 class="media__title">Staging, Git & WP-CLI</h3>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Assumenda ut odit perspiciatis ipsam incidunt earum amet reprehenderit suscipit consequuntur labore.</p>
+        </div>
+    </div></li>
+       <li><div class="media">
+        <div class="media__image">
+            <svg class="icon icon--primary">
+                <use href="/sprite.HASH_REF_491768a2e291e557a2f144fc00b8f7d6.svg"></use>
+              </svg>
+        </div>
+        <div class="media__body">
+            <h3 class="media__title">Dynamic Caching & More</h3>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Assumenda ut odit perspiciatis ipsam incidunt earum amet reprehenderit suscipit consequuntur labore.</p>
+        </div>
+    </div></li>
+     </ul>
+    </div>
+  </section>
+
+  <section class="block" data-aos="zoom-in">
+    <header class="block__header">
+      <h2 class="block__heading">What our Customer are Saying</h2>
+      <p>Lorem ipsum dolor sit amet consectetzur, adipisicing elit. Architecto sunt error maxime ducimus cum. Ipsum.Z</p>
+    </header>
+    
+      <div class="container">
+        <div class="card testimonial">
+          <div class="grid grid--1x2">
+              <div class="testimonial__image">
+                  <img src="/testimonial.HASH_REF_63bd71c962fb468f5de9bb863086bc1e.jpg" alt="A happy, smiling customer">
+                  <span class="icon-container icon-container--accent">
+                      <svg class="icon--small icon--white">
+                          <use href="/sprite.HASH_REF_491768a2e291e557a2f144fc00b8f7d6.svg"></use>
+                        </svg>
+                  </span>
+              </div>
+              <blockquote class="quote">
+                <p class="quote__text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut voluptatem neque veritatis
+                    eos sapiente. Obcaecati placeat nesciunt ullam molestias accusantium?</p>
+                    <footer>
+                        <div class="media">
+                        <div class="media__image">
+                            <svg class="icon icon--primary quote__line">
+                                <use href="/sprite.HASH_REF_491768a2e291e557a2f144fc00b8f7d6.svg"></use>
+                            </svg>
+                        </div>
+                        <div class="media__body">
+                            <h3 class="media__title quote__author">Jhone Lumeo</h3>
+                            <p class="media__text quote__company">Mosh Company ceo</p>
+                        </div>
+                    </div>
+                </footer>
+            </blockquote>
+          </div>
+          </div>
+      </div>
+  
+  </section>
+
+    <section class="block container">
+      <form id="fcf-form-id" method="post" action="contactform.php">
+        <label for="Name">Your name</label>
+        <input type="text" id="Name" name="Name" required="">
+
+        <label for="Email">Your email address</label>
+        <input type="email" id="Email" name="Email" required="">
+
+        <label for="Message">Your message</label>
+        <textarea id="Message" name="Message" rows="6" maxlength="3000" required=""></textarea>
+     
+        <button type="submit" id="fcf-button">Send</button>
+      
+        </form>
+    </section>
+
+  <footer class="block block--dark footer">
+    <div class="grid container footer__sections">
+      <section class="collapsible collapsible--expanded footer__section">
+        <div class="collapsible__header">
+          <h2 class="collapsible__heading footer__heading">item 1</h2>
+    
+          <svg class="icon icon--white collapsible__chevron">
+            <use href="/sprite.HASH_REF_491768a2e291e557a2f144fc00b8f7d6.svg"></use>
+          </svg>
+        </div>
+    
+        <div class="collapsible__content">
+       <ul class="list">
+         <li><a href="#">WordPress Hosting</a></li>
+         <li><a href="#">Free Automated WordPress </a></li>
+         <li><a href="#">Migrations</a></li>
+         <li><a href="#">Domain Name</a></li>
+         <li><a href="#">Monthly Web Hosting</a></li>
+        </ul>
+      </div>
+        
+      </section>
+
+      <section class="collapsible collapsible--expanded footer__section">
+        <div class="collapsible__header">
+          <h2 class="collapsible__heading footer__heading">item 2</h2>
+    
+          <svg class="icon icon--white collapsible__chevron">
+            <use href="/sprite.HASH_REF_491768a2e291e557a2f144fc00b8f7d6.svg"></use>
+          </svg>
+        </div>
+    
+        <div class="collapsible__content">
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. In, harum quas? Delectus expedita reprehenderit nostrum.
+        </div>
+        
+      </section>
+
+      <section class="collapsible collapsible--expanded footer__section">
+        <div class="collapsible__header">
+          <h2 class="collapsible__heading footer__heading">item 3</h2>
+    
+          <svg class="icon icon--white collapsible__chevron">
+            <use href="/sprite.HASH_REF_491768a2e291e557a2f144fc00b8f7d6.svg"></use>
+          </svg>
+        </div>
+    
+        <div class="collapsible__content">
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. In, harum quas? Delectus expedita reprehenderit nostrum.
+        </div>
+        
+      </section>
+     
+<div class="footer__brand">
+<img src="/logo.HASH_REF_92ef0a6b94569b6a419386db7071b2c9.svg" alt="">
+<p class="footer__copyright">Copyright 2020 Mosh Hamedami</p>
+</div>
+
+    </div>
+  </footer>
+
+
+
+  <script src="/index.HASH_REF_0cac6c29c544aecf1ca11c8c74f86353.js"></script>
+  <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>// modules are defined as an array
+// [ module function, map of requires ]
+//
+// map of requires is short require name -> numeric require
+//
+// anything defined in a previous bundle is accessed via the
+// orig method which is the require for previous bundles
+
+(function(modules, entry, mainEntry, parcelRequireName, globalName) {
+  /* eslint-disable no-undef */
+  var globalObject =
+    typeof globalThis !== 'undefined'
+      ? globalThis
+      : typeof self !== 'undefined'
+      ? self
+      : typeof window !== 'undefined'
+      ? window
+      : typeof global !== 'undefined'
+      ? global
+      : {};
+  /* eslint-enable no-undef */
+
+  // Save the require from previous bundle to this closure if any
+  var previousRequire =
+    typeof globalObject[parcelRequireName] === 'function' &&
+    globalObject[parcelRequireName];
+
+  var cache = previousRequire.cache || {};
+  // Do not use `require` to prevent Webpack from trying to bundle this call
+  var nodeRequire =
+    typeof module !== 'undefined' &&
+    typeof module.require === 'function' &&
+    module.require.bind(module);
+
+  function newRequire(name, jumped) {
+    if (!cache[name]) {
+      if (!modules[name]) {
+        // if we cannot find the module within our internal map or
+        // cache jump to the current global require ie. the last bundle
+        // that was added to the page.
+        var currentRequire =
+          typeof globalObject[parcelRequireName] === 'function' &&
+          globalObject[parcelRequireName];
+        if (!jumped && currentRequire) {
+          return currentRequire(name, true);
+        }
+
+        // If there are other bundles on this page the require from the
+        // previous one is saved to 'previousRequire'. Repeat this as
+        // many times as there are bundles until the module is found or
+        // we exhaust the require chain.
+        if (previousRequire) {
+          return previousRequire(name, true);
+        }
+
+        // Try the node require function if it exists.
+        if (nodeRequire && typeof name === 'string') {
+          return nodeRequire(name);
+        }
+
+        var err = new Error("Cannot find module '" + name + "'");
+        err.code = 'MODULE_NOT_FOUND';
+        throw err;
+      }
+
+      localRequire.resolve = resolve;
+      localRequire.cache = {};
+
+      var module = (cache[name] = new newRequire.Module(name));
+
+      modules[name][0].call(
+        module.exports,
+        localRequire,
+        module,
+        module.exports,
+        this,
+      );
+    }
+
+    return cache[name].exports;
+
+    function localRequire(x) {
+      return newRequire(localRequire.resolve(x));
+    }
+
+    function resolve(x) {
+      return modules[name][1][x] || x;
+    }
+  }
+
+  function Module(moduleName) {
+    this.id = moduleName;
+    this.bundle = newRequire;
+    this.exports = {};
+  }
+
+  newRequire.isParcelRequire = true;
+  newRequire.Module = Module;
+  newRequire.modules = modules;
+  newRequire.cache = cache;
+  newRequire.parent = previousRequire;
+  newRequire.register = function(id, exports) {
+    modules[id] = [
+      function(require, module) {
+        module.exports = exports;
+      },
+      {},
+    ];
+  };
+
+  Object.defineProperty(newRequire, 'root', {
+    get: function() {
+      return globalObject[parcelRequireName];
+    },
+  });
+
+  globalObject[parcelRequireName] = newRequire;
+
+  for (var i = 0; i < entry.length; i++) {
+    newRequire(entry[i]);
+  }
+
+  if (mainEntry) {
+    // Expose entry point to Node, AMD or browser globals
+    // Based on https://github.com/ForbesLindesay/umd/blob/master/template.js
+    var mainExports = newRequire(mainEntry);
+
+    // CommonJS
+    if (typeof exports === 'object' && typeof module !== 'undefined') {
+      module.exports = mainExports;
+
+      // RequireJS
+    } else if (typeof define === 'function' && define.amd) {
+      define(function() {
+        return mainExports;
+      });
+
+      // <script>
+    } else if (globalName) {
+      this[globalName] = mainExports;
+    }
+  }
+})({"54tIe":[function(require,module,exports) {
+var HMR_HOST = null;
+var HMR_PORT = null;
+var HMR_SECURE = false;
+var HMR_ENV_HASH = "d751713988987e9331980363e24189ce";
+module.bundle.HMR_BUNDLE_ID = "e20c7f18d6c855f603afb8919150bcf5"; // @flow
+/* global HMR_HOST, HMR_PORT, HMR_ENV_HASH, HMR_SECURE */ /*::
+import type {
+  HMRAsset,
+  HMRMessage,
+} from '@parcel/reporter-dev-server/src/HMRServer.js';
+interface ParcelRequire {
+  (string): mixed;
+  cache: {|[string]: ParcelModule|};
+  hotData: mixed;
+  Module: any;
+  parent: ?ParcelRequire;
+  isParcelRequire: true;
+  modules: {|[string]: [Function, {|[string]: string|}]|};
+  HMR_BUNDLE_ID: string;
+  root: ParcelRequire;
+}
+interface ParcelModule {
+  hot: {|
+    data: mixed,
+    accept(cb: (Function) => void): void,
+    dispose(cb: (mixed) => void): void,
+    // accept(deps: Array<string> | string, cb: (Function) => void): void,
+    // decline(): void,
+    _acceptCallbacks: Array<(Function) => void>,
+    _disposeCallbacks: Array<(mixed) => void>,
+  |};
+}
+declare var module: {bundle: ParcelRequire, ...};
+declare var HMR_HOST: string;
+declare var HMR_PORT: string;
+declare var HMR_ENV_HASH: string;
+declare var HMR_SECURE: boolean;
+*/ var OVERLAY_ID = '__parcel__error__overlay__';
+var OldModule = module.bundle.Module;
+function Module(moduleName) {
+    OldModule.call(this, moduleName);
+    this.hot = {
+        data: module.bundle.hotData,
+        _acceptCallbacks: [],
+        _disposeCallbacks: [],
+        accept: function(fn) {
+            this._acceptCallbacks.push(fn || function() {
+            });
+        },
+        dispose: function(fn) {
+            this._disposeCallbacks.push(fn);
+        }
+    };
+    module.bundle.hotData = undefined;
+}
+module.bundle.Module = Module;
+var checkedAssets/*: {|[string]: boolean|} */ , acceptedAssets/*: {|[string]: boolean|} */ , assetsToAccept/*: Array<[ParcelRequire, string]> */ ;
+function getHostname() {
+    return HMR_HOST || (location.protocol.indexOf('http') === 0 ? location.hostname : 'localhost');
+}
+function getPort() {
+    return HMR_PORT || location.port;
+}
+// eslint-disable-next-line no-redeclare
+var parent = module.bundle.parent;
+if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
+    var hostname = getHostname();
+    var port = getPort();
+    var protocol = HMR_SECURE || location.protocol == 'https:' && !/localhost|127.0.0.1|0.0.0.0/.test(hostname) ? 'wss' : 'ws';
+    var ws = new WebSocket(protocol + '://' + hostname + (port ? ':' + port : '') + '/');
+    // $FlowFixMe
+    ws.onmessage = function(event/*: {data: string, ...} */ ) {
+        checkedAssets = {
+        };
+        acceptedAssets = {
+        };
+        assetsToAccept = [];
+        var data = JSON.parse(event.data);
+        if (data.type === 'update') {
+            // Remove error overlay if there is one
+            removeErrorOverlay();
+            let assets = data.assets.filter((asset)=>asset.envHash === HMR_ENV_HASH
+            );
+            // Handle HMR Update
+            var handled = false;
+            assets.forEach((asset)=>{
+                var didAccept = asset.type === 'css' || asset.type === 'js' && hmrAcceptCheck(module.bundle.root, asset.id, asset.depsByBundle);
+                if (didAccept) handled = true;
+            });
+            if (handled) {
+                console.clear();
+                assets.forEach(function(asset) {
+                    hmrApply(module.bundle.root, asset);
+                });
+                for(var i = 0; i < assetsToAccept.length; i++){
+                    var id = assetsToAccept[i][1];
+                    if (!acceptedAssets[id]) hmrAcceptRun(assetsToAccept[i][0], id);
+                }
+            } else window.location.reload();
+        }
+        if (data.type === 'error') {
+            // Log parcel errors to console
+            for (let ansiDiagnostic of data.diagnostics.ansi){
+                let stack = ansiDiagnostic.codeframe ? ansiDiagnostic.codeframe : ansiDiagnostic.stack;
+                console.error('🚨 [parcel]: ' + ansiDiagnostic.message + '\n' + stack + '\n\n' + ansiDiagnostic.hints.join('\n'));
+            }
+            // Render the fancy html overlay
+            removeErrorOverlay();
+            var overlay = createErrorOverlay(data.diagnostics.html);
+            // $FlowFixMe
+            document.body.appendChild(overlay);
+        }
+    };
+    ws.onerror = function(e) {
+        console.error(e.message);
+    };
+    ws.onclose = function(e) {
+        console.warn('[parcel] 🚨 Connection to the HMR server was lost');
+    };
+}
+function removeErrorOverlay() {
+    var overlay = document.getElementById(OVERLAY_ID);
+    if (overlay) {
+        overlay.remove();
+        console.log('[parcel] ✨ Error resolved');
+    }
+}
+function createErrorOverlay(diagnostics) {
+    var overlay = document.createElement('div');
+    overlay.id = OVERLAY_ID;
+    let errorHTML = '<div style="background: black; opacity: 0.85; font-size: 16px; color: white; position: fixed; height: 100%; width: 100%; top: 0px; left: 0px; padding: 30px; font-family: Menlo, Consolas, monospace; z-index: 9999;">';
+    for (let diagnostic of diagnostics){
+        let stack = diagnostic.codeframe ? diagnostic.codeframe : diagnostic.stack;
+        errorHTML += `\n      <div>\n        <div style="font-size: 18px; font-weight: bold; margin-top: 20px;">\n          🚨 ${diagnostic.message}\n        </div>\n        <pre>\n          ${stack}\n        </pre>\n        <div>\n          ${diagnostic.hints.map((hint)=>'<div>' + hint + '</div>'
+        ).join('')}\n        </div>\n      </div>\n    `;
+    }
+    errorHTML += '</div>';
+    overlay.innerHTML = errorHTML;
+    return overlay;
+}
+function getParents(bundle, id) /*: Array<[ParcelRequire, string]> */ {
+    var modules = bundle.modules;
+    if (!modules) return [];
+    var parents = [];
+    var k, d, dep;
+    for(k in modules)for(d in modules[k][1]){
+        dep = modules[k][1][d];
+        if (dep === id || Array.isArray(dep) && dep[dep.length - 1] === id) parents.push([
+            bundle,
+            k
+        ]);
+    }
+    if (bundle.parent) parents = parents.concat(getParents(bundle.parent, id));
+    return parents;
+}
+function updateLink(link) {
+    var newLink = link.cloneNode();
+    newLink.onload = function() {
+        if (link.parentNode !== null) // $FlowFixMe
+        link.parentNode.removeChild(link);
+    };
+    newLink.setAttribute('href', // $FlowFixMe
+    link.getAttribute('href').split('?')[0] + '?' + Date.now());
+    // $FlowFixMe
+    link.parentNode.insertBefore(newLink, link.nextSibling);
+}
+var cssTimeout = null;
+function reloadCSS() {
+    if (cssTimeout) return;
+    cssTimeout = setTimeout(function() {
+        var links = document.querySelectorAll('link[rel="stylesheet"]');
+        for(var i = 0; i < links.length; i++){
+            // $FlowFixMe[incompatible-type]
+            var href = links[i].getAttribute('href');
+            var hostname = getHostname();
+            var servedFromHMRServer = hostname === 'localhost' ? new RegExp('^(https?:\\/\\/(0.0.0.0|127.0.0.1)|localhost):' + getPort()).test(href) : href.indexOf(hostname + ':' + getPort());
+            var absolute = /^https?:\/\//i.test(href) && href.indexOf(window.location.origin) !== 0 && !servedFromHMRServer;
+            if (!absolute) updateLink(links[i]);
+        }
+        cssTimeout = null;
+    }, 50);
+}
+function hmrApply(bundle/*: ParcelRequire */ , asset/*:  HMRAsset */ ) {
+    var modules = bundle.modules;
+    if (!modules) return;
+    if (asset.type === 'css') {
+        reloadCSS();
+        return;
+    }
+    let deps = asset.depsByBundle[bundle.HMR_BUNDLE_ID];
+    if (deps) {
+        var fn = new Function('require', 'module', 'exports', asset.output);
+        modules[asset.id] = [
+            fn,
+            deps
+        ];
+    } else if (bundle.parent) hmrApply(bundle.parent, asset);
+}
+function hmrAcceptCheck(bundle/*: ParcelRequire */ , id/*: string */ , depsByBundle/*: ?{ [string]: { [string]: string } }*/ ) {
+    var modules = bundle.modules;
+    if (!modules) return;
+    if (depsByBundle && !depsByBundle[bundle.HMR_BUNDLE_ID]) {
+        // If we reached the root bundle without finding where the asset should go,
+        // there's nothing to do. Mark as "accepted" so we don't reload the page.
+        if (!bundle.parent) return true;
+        return hmrAcceptCheck(bundle.parent, id, depsByBundle);
+    }
+    if (checkedAssets[id]) return;
+    checkedAssets[id] = true;
+    var cached = bundle.cache[id];
+    assetsToAccept.push([
+        bundle,
+        id
+    ]);
+    if (cached && cached.hot && cached.hot._acceptCallbacks.length) return true;
+    return getParents(module.bundle.root, id).some(function(v) {
+        return hmrAcceptCheck(v[0], v[1], null);
+    });
+}
+function hmrAcceptRun(bundle/*: ParcelRequire */ , id/*: string */ ) {
+    var cached = bundle.cache[id];
+    bundle.hotData = {
+    };
+    if (cached && cached.hot) cached.hot.data = bundle.hotData;
+    if (cached && cached.hot && cached.hot._disposeCallbacks.length) cached.hot._disposeCallbacks.forEach(function(cb) {
+        cb(bundle.hotData);
+    });
+    delete bundle.cache[id];
+    bundle(id);
+    cached = bundle.cache[id];
+    if (cached && cached.hot && cached.hot._acceptCallbacks.length) cached.hot._acceptCallbacks.forEach(function(cb) {
+        var assetsToAlsoAccept = cb(function() {
+            return getParents(module.bundle.root, id);
+        });
+        if (assetsToAlsoAccept && assetsToAccept.length) assetsToAccept.push.apply(assetsToAccept, assetsToAlsoAccept);
+    });
+    acceptedAssets[id] = true;
+}
+
+},{}],"1FFrB":[function(require,module,exports) {
+AOS.init();
+
+},{}]},["54tIe","1FFrB"], "1FFrB", "parcelRequire0c6e")
+
+</script>
+
+</body>
+
+</html>
