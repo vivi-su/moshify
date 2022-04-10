@@ -531,10 +531,10 @@
   },
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html",
+    "build": "parcel build ./app/packs/entrypoints/*.js --no-minify",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "minifySvg": false,
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vivischulz/moshify.git"
