@@ -2,13 +2,13 @@
   "devDependencies": {
     "parcel": "^2.0.0-rc.0"
   },
-  "default": "index.html",
-"scripts": {
-  "start": "parcel index.html",
-  "build": "parcel build index.html --dist-dir ./dist"
-},
+  "scripts": {
+    "build": "parcel build index.html",
+    "start": "parcel index.html"
+  },
   "dependencies": {
     "@parcel/config-default": "^2.4.1",
-    "@parcel/transformer-typescript-tsc": "^2.4.1"
+    "@parcel/transformer-typescript-tsc": "^2.4.1",
+    "lmdb-store": "^1.6.14"
   }
 }
