@@ -527,7 +527,7 @@
     "yaml": "^1.10.2"
   },
   "devDependencies": {
-    "parcel-bundler": "^1.12.4"
+    "parcel-bundler": "^1.12.5"
   },
   "scripts": {
     "start": "parcel index.html",
