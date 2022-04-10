@@ -1,12 +1,7 @@
 {
-  "name": "moshify",
-  "source": "index.html",
-  "browserslist": "> 0.5%, last 2 versions, not dead",
-  "scripts": {
-    "start": "parcel",
-    "build": "parcel build"
-  },
   "devDependencies": {
-    "parcel": "^2.3.2"
+    "parcel": "^2.0.0-rc.0",
+    "extends": "@parcel/config-default",
+    "resolvers": ["@parcel/resolver-glob", "..."]
   }
 }
