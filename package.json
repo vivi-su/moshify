@@ -534,6 +534,7 @@
     "build": "parcel build index.html --no-minify",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "minifySvg": false,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vivischulz/moshify.git"
