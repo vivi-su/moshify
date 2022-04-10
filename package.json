@@ -1,7 +1,9 @@
 {
   "devDependencies": {
-    "parcel": "^2.0.0-rc.0",
-    "extends": "@parcel/config-default",
-    "resolvers": ["@parcel/resolver-glob", "..."]
+    "parcel": "^2.0.0-rc.0"
+  },
+  "dependencies": {
+    "@parcel/config-default": "^2.4.1",
+    "@parcel/transformer-typescript-tsc": "^2.4.1"
   }
 }
