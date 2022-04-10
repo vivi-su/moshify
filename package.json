@@ -531,7 +531,7 @@
   },
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build ./app/packs/entrypoints/*.js --no-minify",
+    "build": "parcel build --no-minify",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
 
