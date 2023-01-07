@@ -272,7 +272,7 @@
     "json-schema-traverse": "^0.4.1",
     "json-source-map": "^0.6.1",
     "json-stringify-safe": "^5.0.1",
-    "json5": "^1.0.1",
+    "json5": "^1.0.2",
     "jsprim": "^1.4.2",
     "kind-of": "^6.0.3",
     "levn": "^0.3.0",
